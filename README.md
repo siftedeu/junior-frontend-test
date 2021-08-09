@@ -20,6 +20,7 @@ We want to see how well you are able to take a design and turn it into a functio
 1. Given the design, we would like you to build it out with responsive design in mind. We've provided what we expect it should look like on mobile, tablet and desktop in the [design file](https://www.figma.com/file/lYwdJxRgjCwHlSmxxTtaFG/Sifted-FE-Tech-Test-Junior) to help guide you.
 
 2. Next, we would like you to add some interactivity to the page using JavaScript. You'll have noticed the pricing toggle in the design, we want this to change prices on the page from monthly values to yearly and vice versa depending on which option is selected. There's no discounts to worry about, so please simply multiply the values provided in the [design file](https://www.figma.com/file/lYwdJxRgjCwHlSmxxTtaFG/Sifted-FE-Tech-Test-Junior) accordingly.
+
 ![2021-08-09 at 16 21 03](https://user-images.githubusercontent.com/458311/128731107-f09cabd8-0585-4162-aa27-445e7f15d4a7.png)
 
 **Please note:** while we've only included a single CSS and JavaScript file respectively, you are free to create more should you want. You are allowed to modify the code we have provided in any way you would like!
