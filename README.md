@@ -28,6 +28,7 @@ We want to see how well you are able to take a design and turn it into a functio
 
 _General_
 - Attention to detail
+- Decision making (if you had to make trade-offs in order to get things done, we're interested in the where and why)
 
 _HTML/CSS_
 - Sensible HTML structure
