@@ -49,7 +49,7 @@ _Git_
 
 When returning your solution to this test, please **zip** up the entire folder email it to us
 
-# Good luck!
+## Good luck!
 
 Please don't worry if you can't get everything done or in the way you would have liked. We understand working under test conditions isn't ideal.
 
