@@ -11,7 +11,7 @@ git clone https://github.com/siftedeu/junior-frontend-test.git
 
 Once it's done doing its thing, you should now have a copy of the files and folders you'll be working with!
 
-Please note: We haven't included any framework or expect you to use one yourself, it's all vanilla HTML, CSS and JavaScript. This means all you need to do get this project running is double-clicking `index.html`. Doing so should open up your default browser and allow you to view the contents of the code we've set up.
+**Please note:** We haven't included any framework or expect you to use one yourself, it's all vanilla HTML, CSS and JavaScript. This means all you need to do get this project running is double-clicking `index.html`. Doing so should open up your default browser and allow you to view the contents of the code we've set up.
 
 ## The task
 
