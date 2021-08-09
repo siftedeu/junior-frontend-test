@@ -1,47 +1,54 @@
-# junior-frontend-test
-https://sifted.eu/jobs/junior-front-end-developer/
+# Junior Frontend Test
 
-![Desktop Image](./public/Screenshots/Desktop.png)
-![Tablet Image](./public/Screenshots/Tablet.png)
-![Mobile Image](./public/Screenshots/Mobile.png)
+Hey there, thank you for applying!
+
+## Getting started
+
+To clone this repo, in terminal please enter:
+```
+git clone https://github.com/siftedeu/junior-frontend-test.git
+```
+
+Once it's done doing its thing, you should now have a copy of the files and folders you'll be working with!
+
+Please note: We haven't included any framework or expect you to use one yourself, it's all vanilla HTML, CSS and JavaScript. This means all you need to do get this project running is double-clicking `index.html`. Doing so should open up your default browser and allow you to view the contents of the code we've set up.
+
+## The task
+
+We want to see how well you are able to take a design and turn it into a functioning piece of code. In order to do so we're providing you a [design file](https://www.figma.com/file/lYwdJxRgjCwHlSmxxTtaFG/Sifted-FE-Tech-Test-Junior) that contains something that resembles a pricing page (please feel free to send us a message if you're having trouble with our design software of choice, being able to use it is **NOT** part of the test).
+
+1. Given the design, we would like you to build it out with responsive design in mind. We've provided what we expect it should look like on mobile, tablet and desktop in the [design file](https://www.figma.com/file/lYwdJxRgjCwHlSmxxTtaFG/Sifted-FE-Tech-Test-Junior) to help guide you.
+
+2. Next, we would like you to add some interactivity to the page using JavaScript. You'll have noticed the pricing toggle in the design, we want this to change prices on the page from monthly values to yearly and vice versa depending on which option is selected. There's no discounts to worry about, so please simply multiply the values provided in the [design file](https://www.figma.com/file/lYwdJxRgjCwHlSmxxTtaFG/Sifted-FE-Tech-Test-Junior) accordingly.
+![2021-08-09 at 16 21 03](https://user-images.githubusercontent.com/458311/128731107-f09cabd8-0585-4162-aa27-445e7f15d4a7.png)
+
+**Please note:** while we've only included a single CSS and JavaScript file respectively, you are free to create more should you want. You are allowed to modify the code we have provided in any way you would like!
 
 ## What we are looking for
-HTML/CSS
-- Valid HTML structure
-- Understanding of SVG and use of included assets
-- Use of CSS grid / Flexbox
-- Well structured and clean CSS
 
-Javascript
-- Good understanding of JS basics
-  - Understanding of Javascript event handlers + functions
+_General_
+- Attention to detail
 
-- Good use of git
-  - Quality, frequent, sensible commits
+_HTML/CSS_
+- Sensible HTML structure
+- Good use of CSS Grids and/or Flexbox where applicable
+- Well structured and clean CSS (good use of classes, sensible naming and so on)
 
-## The Task
-For the Sifted Junior Web Developer task: Please make a responsive webpage using the following [design](https://www.figma.com/file/lYwdJxRgjCwHlSmxxTtaFG/Sifted-FE-Tech-Test-Junior) as a guide.
+_JavaScript_
+- Good understanding of the basics
+- A decent grasp of JavaScript event handlers, what they are and how to use them
+- Well written code
 
-### Git
-Git clone our project:
-- SSH: git@github.com:siftedeu/junior-frontend-test.git
-- GH CLI: gh repo clone siftedeu/junior-frontend-test
-- HTTPS: https://github.com/siftedeu/junior-frontend-test.git
+_Git_
+- Nicely written, sensible commits, that are frequently made
 
-### Design
-https://www.figma.com/file/lYwdJxRgjCwHlSmxxTtaFG/Sifted-FE-Tech-Test-Junior
 
-Once the page has been created. The task is to add some interactivity to the page. The toggle shown (Monthly / Yearly Billing) should alter the pricing show on each card, the design shows the exact pricing to display.
+## What to send us when you're done
 
-![Toggle Component Screenshot](./public/Screenshots/Pricing_toggle.png)
-![Pricing Elements](./public/Screenshots/Pricing_elements.png)
+When returning your solution to this test, please **zip** up the entire folder email it to us
 
-### JS Pricing Toggle
-Please use - an event listener, controlling html elements and styling of the toggle
-Calculations/business logic
+# Good luck!
 
-## Your solution
-When returning your solution to this test, please either:
+Please don't worry if you can't get everything done or in the way you would have liked. We understand working under test conditions isn't ideal.
 
-- Make a sharable github repo (good for us to be able to see your projects progression on git)
-- Zip up the code and email attach your solution
+Just make a note of everything you'd like to discuss about your work (things like what you would have done differently, things you had trouble with, etc.) and feel free to include it as part of your email back to us :)
