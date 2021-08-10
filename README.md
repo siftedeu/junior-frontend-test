@@ -54,3 +54,5 @@ When returning your solution to this test, please **zip** up the entire folder e
 Please don't worry if you can't get everything done or in the way you would have liked. We understand working under test conditions isn't ideal.
 
 Just make a note of everything you'd like to discuss about your work (things like what you would have done differently, things you had trouble with, etc.) and feel free to include it as part of your email back to us :)
+
+Ideally, we'd like to see a bit of everything even if unfinished, meaning we'd like to get a sense of how you write HTML, CSS **and** JavaScript. To get you there, we would advise managing your time across the two tasks and make trade-offs where you feel best if necessary. We would much prefer getting the fullest picture possible, rather than one task being done perfectly and the other not at all.
