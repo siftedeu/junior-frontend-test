@@ -4,12 +4,6 @@ Hey there, thank you for applying!
 
 ## Getting started
 
-Visit [https://github.com/siftedeu/junior-frontend-test](https://github.com/siftedeu/junior-frontend-test) and click the **Use this template** button after login, when you are done you can either share this git repo with us or send us a zip!
-
-![github template button screenshot](./public/github_template.png)
-
-OR
-
 To clone this repo, in terminal please enter:
 ```
 git clone https://github.com/siftedeu/junior-frontend-test.git
@@ -53,7 +47,7 @@ _Git_
 
 ## What to send us when you’re done
 
-When returning your solution to this test, please **zip** up the entire folder email it to us or share a public git repo with us in order for us to see your development style using git!
+When returning your solution to this test, please **zip** up the entire folder email it to us
 
 ## Good luck!
 
